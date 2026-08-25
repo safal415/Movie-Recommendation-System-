@@ -31,7 +31,7 @@ A Streamlit-based web app that recommends movies using a similarity matrix and f
 - TMDb API → for posters, overview, budget, release year, director, actors
 - OMDb API → for awards and IMDb data
 
-
+![image alt] (media/Screenshot 2026-08-25 211157.png)
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    git clone https://github.com/your-username/movie-recommendation-system.git
@@ -50,4 +50,12 @@ A Streamlit-based web app that recommends movies using a similarity matrix and f
 
 ## 🌐 Deployment
 Deploy easily on [Streamlit Cloud](https://streamlit.io/cloud) by connecting your GitHub repository.
+
+## 📸 Demo
+
+Here’s how the app looks:
+
+![Movie Recommendation App Screenshot](https://github.com/safal415/Movie-Recommendation-System-/blob/safal415-patch-1/media/Screenshot%202026-08-25%20211157.png)
+![App Screenshot](https://github.com/safal415/Movie-Recommendation-System-/raw/safal415-patch-1/media/Screenshot%202026-08-25%20215618.png)
+![Second Screenshot](https://github.com/safal415/Movie-Recommendation-System-/raw/safal415-patch-1/media/Screenshot%202026-08-25%20215651.png)
 
