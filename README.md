@@ -55,4 +55,4 @@ Deploy easily on [Streamlit Cloud](https://streamlit.io/cloud) by connecting you
 
 Here’s how the app looks:
 
-![Movie Recommendation App Screenshot](images/demo.png)
+![Movie Recommendation App Screenshot](imedia/Screenshot 2026-08-25 211157.png)
