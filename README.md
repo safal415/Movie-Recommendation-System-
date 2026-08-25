@@ -55,4 +55,4 @@ Deploy easily on [Streamlit Cloud](https://streamlit.io/cloud) by connecting you
 
 Here’s how the app looks:
 
-![Movie Recommendation App Screenshot](imedia/Screenshot 2026-08-25 211157.png)
+![Movie Recommendation App Screenshot](https://github.com/safal415/Movie-Recommendation-System-/blob/safal415-patch-1/media/Screenshot%202026-08-25%20211157.png)
