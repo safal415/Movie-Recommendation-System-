@@ -2,11 +2,11 @@
 name = "movie-recommendation-system"
 version = "0.1.0"
 description = "A Streamlit app for movie recommendations using TMDb and OMDb APIs"
-authors = ["Your Name <you@example.com>"]
+authors = ["Safal Khatiwada <you@example.com>"]
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.12,<3.14"
 streamlit = "^1.62.0"
 pandas = "^3.0.5"
 numpy = "^2.5.2"
