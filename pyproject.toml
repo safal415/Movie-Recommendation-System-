@@ -1,7 +1,20 @@
-[project]
-name = "movierecommand"
+[tool.poetry]
+name = "movie-recommendation-system"
 version = "0.1.0"
-requires-python = ">=3.14"
-dependencies = [
-    "streamlit>=1.62.0",
-]
+description = "A Streamlit app for movie recommendations using TMDb and OMDb APIs"
+authors = ["Your Name <you@example.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.62.0"
+pandas = "^3.0.5"
+numpy = "^2.5.2"
+requests = "^2.34.2"
+altair = "^6.2.2"
+pydeck = "^0.9.3"
+pillow = "^12.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
