@@ -1,10 +1,14 @@
 import streamlit as st
 import pickle
 import requests
+import numpy as np
 
 # Load dataframe and similarity matrix
 movies_df = pickle.load(open("movies.pkl", "rb"))
-similarity = pickle.load(open("similarity.pkl", "rb"))
+
+# Load compressed similarity matrix from .npz
+data = np.load("similarity.npz")
+similarity = data["arr_0"]   # similarity matrix stored under default key
 
 # Extract titles for dropdown
 movies_list = movies_df['title'].values.tolist()
