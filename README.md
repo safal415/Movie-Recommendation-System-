@@ -48,8 +48,11 @@ A Streamlit-based web app that recommends movies using a similarity matrix and f
    streamlit run app.py
 
 
-## 🌐 Deployment
-Deploy on [Streamlit Cloud] by connecting your GitHub repository.
+## 📂 Project Files
+Whole project structure is stored externally due to size limitations.  
+Please go through this link to access them:
+
+👉 [Download Required Files](https://drive.google.com/drive/folders/1lTdGwpJrKMMCo1H067D6-Dl4Exdc5SC4?usp=sharing)
 
 ## 📸 Demo
 
