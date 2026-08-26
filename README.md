@@ -49,7 +49,7 @@ A Streamlit-based web app that recommends movies using a similarity matrix and f
 
 
 ## 🌐 Deployment
-Deploy easily on [Streamlit Cloud](https://streamlit.io/cloud) by connecting your GitHub repository.
+Deployed on [Streamlit Cloud]((https://jcu8ofmwubgq7go2v6xrpe.streamlit.app/)) by connecting your GitHub repository.
 
 ## 📸 Demo
 
